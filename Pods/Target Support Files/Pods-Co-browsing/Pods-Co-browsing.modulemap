@@ -1,0 +1,6 @@
+framework module Pods_Co_browsing {
+  umbrella header "Pods-Co-browsing-umbrella.h"
+
+  export *
+  module * { export * }
+}
